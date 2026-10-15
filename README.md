@@ -1,6 +1,6 @@
 # Ava — AI voice agent
 
-**An AI phone agent that answers a locksmith company's calls and books jobs straight into the CRM.**
+**An AI phone agent that answers a field-service company's calls and books jobs straight into the CRM.**
 
 *Showcase page. The code and prompts are private because they run a live business; a walkthrough is available on request.*
 
@@ -11,8 +11,6 @@
 - Answers calls in a natural voice, works out what the caller needs, collects the details, and **books the job** into [Ava Connects](https://github.com/alon005/ava-connects) through tool calls.
 - Looks up existing jobs, reschedules, passes messages to the technician, adds notes for the office, and escalates to a person when needed.
 - Knows the company's rules: what we do and don't do, when to quote a price and when not to, and how to handle prices, complaints and after-hours calls.
-
-She was first built on top of the master dashboard and Workiz, then moved onto Ava Connects.
 
 ## Numbers
 
